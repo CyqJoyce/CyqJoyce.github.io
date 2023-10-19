@@ -8,21 +8,21 @@
     "url": "https://CyqJoyce.github.io/al-folio/",
     "summary": "An average journalism and communication student",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "南京大学仙林校区",
+      "postalCode": "210023",
+      "city": "NanJing",
+      "countryCode": "China",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "weibo",
+        "username": "none",
+        "url": "https://none.weibo.com"
       }
     ]
   },
-   "work": [
+  "work": [
     {
       "name": "NanJing University",
       "position": "Student",
@@ -50,20 +50,12 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
