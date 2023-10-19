@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Song Yuying",
+    "name": "Cao Yongqian",
     "label": "Student",
     "image": "",
-    "email": "522023110043@smail.nju.edu.cn",
-    "phone": "13074189436",
-    "url": "https://songyying.io",
+    "email": "553973951@qq.com",
+    "phone": "13775353059",
+    "url": "https://CyqJoyce.github.io",
     "summary": "A student in Nan Jing University.",
     "location": {
       "address": "江苏省南京市栖霞区仙林大道163号",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "weibo",
-        "username": "guess it",
-        "url": "https://songyying.io"
+        "username": "none",
+        "url": "https://none.weibo.com"
       }
     ]
   },
@@ -26,9 +26,9 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Ji Lin University",
-      "url": "https://www.jlu.edu.cn/",
-      "area": "Journalism and Communication",
+      "institution": "Hohai University",
+      "url": "https://www.hhu.edu.cn/",
+      "area": "Broadcasting and Hosting",
       "studyType": "Bachelor of Arts degree",
       "startDate": "2019-09-01",
       "endDate": "2023-06-31",
