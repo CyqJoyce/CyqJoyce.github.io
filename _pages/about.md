@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello,everyone!Welcome and thank you for visiting my site!My name is Cao Yongqian, I am 22 years old, from Zhenjiang, Jiangsu Province, and I studied broadcasting and hosting art at Hohai University. 
+Hello,everyone!Welcome and thank you for visiting my site!My name is Cao Yongqian, I am 22 years old, from Zhenjiang, Jiangsu Province.I am currently studying Journalism and Communication at Nanjing University, and my undergraduate degree is in Broadcasting and Hosting Arts at Hohai University. 
 
 Outside of academia, I began my journey in Chinese dance at the age of 5, and in 2021 I was in a dance that was performed at the Jiangsu Grand Theater. I also have a passion for the piano, and to this day, I still play my favorite songs.
 
